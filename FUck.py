@@ -1,1 +1,1 @@
-import fuck
+import fuck_1
